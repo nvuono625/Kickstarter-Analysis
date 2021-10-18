@@ -31,4 +31,3 @@ The challenges and difficulties encountered was being able to create more column
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
-![image](https://user-images.githubusercontent.com/91674541/137666428-f57bd20a-d93e-41bd-8dd1-0f27157f113c.png)
